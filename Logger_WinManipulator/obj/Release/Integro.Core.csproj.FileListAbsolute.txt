@@ -1,0 +1,5 @@
+C:\Projects\Integro\Logger\Version 1.0.0.1\bin\Release\Integro.Core.dll
+C:\Projects\Integro\Logger\Version 1.0.0.1\bin\Release\Integro.Core.pdb
+C:\Projects\Integro\Logger\Version 1.0.0.1\obj\Release\Integro.Core.csprojResolveAssemblyReference.cache
+C:\Projects\Integro\Logger\Version 1.0.0.1\obj\Release\Integro.Core.dll
+C:\Projects\Integro\Logger\Version 1.0.0.1\obj\Release\Integro.Core.pdb

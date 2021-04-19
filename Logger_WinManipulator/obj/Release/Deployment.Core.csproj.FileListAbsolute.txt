@@ -1,0 +1,5 @@
+\\vmware-host\Shared Folders\Downloads\Version 1.0.0.1\bin\Release\Deployment.Core.dll
+\\vmware-host\Shared Folders\Downloads\Version 1.0.0.1\bin\Release\Deployment.Core.pdb
+\\vmware-host\Shared Folders\Downloads\Version 1.0.0.1\obj\Release\Deployment.Core.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Downloads\Version 1.0.0.1\obj\Release\Deployment.Core.dll
+\\vmware-host\Shared Folders\Downloads\Version 1.0.0.1\obj\Release\Deployment.Core.pdb
